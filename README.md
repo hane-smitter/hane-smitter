@@ -1,4 +1,3 @@
-
 <h1>Hi There, I am <a  href="https://lookupzach.netlify.app">Zacky Aduoli</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Software Engineer**, graduated in **2021** from **Masinde Muliro University** in **Information Technology** stream. My day to day work revolves around building software solutions to various interesting problems and deploying them to production, at scale. In my free time I like to do exercises, read blogs and participate in online contests. I am open to collaborate on interesting projects.
@@ -52,8 +51,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
 -----
-Credits: [Tushar Mittal](https://github.com/techytushar)
+Credits: [Zacky Aduoli](https://github.com/hane-smitter)
 
 Last Edited on: 30/11/2021
-
-//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
