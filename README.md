@@ -1,55 +1,76 @@
-<h1>Hi There, I am <a  href="https://lookupzach.netlify.app">Zacky Aduoli</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+ <!--
+**hane-smitter/hane-smitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-I'm a **Software Engineer**, graduated in **2021** from **Masinde Muliro University** in **Information Technology** stream. My day to day work revolves around building software solutions to various interesting problems and deploying them to production, at scale. In my free time I like to do exercises, read blogs and participate in online contests. I am open to collaborate on interesting projects.
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-## Skill Set :muscle:
 
-These are some of the major technologies that I use or have worked on in the past:
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Ujwal Kandi</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/hane-smitter/hane-smitter/blob/main/img/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-**Programming Languages**
+- 🎓 I'm a Computer Engineering undergrad  
+- 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
+- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⚡ I love photography, programming, data science and books 
 
-<img title="Php" alt="Php" width="40px" src="https://user-images.githubusercontent.com/49382800/131342188-dca6581a-58d8-43e2-8ca2-2b74a7e230a7.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://user-images.githubusercontent.com/49382800/131342467-592e018d-1398-44e4-bc2e-c8748310900a.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|
 
-**Libraries and Frameworks**
-<img title="Vue.js" alt="VueJs" width="40px" src="https://img.icons8.com/color/48/000000/vue-js.png">|<img title="Laravel" alt="laravel" width="40px" src="https://img.icons8.com/fluency/48/000000/laravel.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+#### Languages and Tools 
+<p>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/python-5.svg" alt="Python"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/git-icon.svg" alt="git"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/terminal-1.svg" alt="terminal"></code>
+  <code><img height="27" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/java-4.svg" alt="java"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/css-3.svg" alt="CSS"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/r-lang.svg" alt="R"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/javascript.svg" alt="JavaScript"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/c-2975.svg" alt="C"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/master/svg/Matlab_Logo.png" alt="MATLAB"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/sql.png" alt="SQL"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/html-5.svg" alt="HTML"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/tableau-software.svg" alt="Tableau"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
+  <code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/power-bi-1.svg" alt="Power BI"></code>
+  <code><img height="25" src="https://github.com/hane-smitter/hane-smitter/blob/c45f674e1145d04d97cd57f4e9dac336c5e29600/svg/jira-3.svg" alt="Jira"></code>
 
-**Cloud**
+</p>
 
-<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-|--|--|
+<br />
 
-**Databases**
+[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=UjwalKandi&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/UjwalKandi?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=UjwalKandi&layout=compact&langs_count=6&theme=blue-green)](https://github.com/UjwalKandi)
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+<!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=UjwalKandi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjwalKandi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
 
-**Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-|--|--|--|--|--|
-<br>
+#### Find me on  
+<!--
+<p align='left'>
+   <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/twitter-3.svg"></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/instagram-2-1.svg"></a>&nbsp;&nbsp;
+ <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/Kaggle%20Icon.svg"></a>&nbsp;&nbsp;
+ <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/tableau-software.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/github-1.svg"></a>&nbsp;&nbsp;
+ 
+ </p>
+ -->
 
-## Some of my stats :bar_chart:
+ <p align='left'>
+   <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/linkedin%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/UjwalKandiii" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/twitter%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/ujwal_kandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/insta%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://www.kaggle.com/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/Kaggle%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://public.tableau.com/profile/ujwal.kandi#!/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/tableau%20rect.svg"></a>&nbsp;&nbsp;
+ <a href="https://dev.to/ujwalkandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/master/svg/Dev--black.svg"></a>&nbsp;&nbsp;
+ <a href="https://github.com/UjwalKandi" target="_blank"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/github%20rect.svg"></a>&nbsp;&nbsp;
+ 
+ </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=techytushar&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
-|--|--|
 
-<br>
+![build](https://github.com/hane-smitter/hane-smitter/blob/main/img/badge.svg)
+![GitHub last commit](https://github.com/hane-smitter/hane-smitter/blob/master/svg/last%20commit.svg)
+![pv](https://pageview.vercel.app/?github_user=UjwalKandi)
 
-## Let's Connect :handshake:
-
-<a href="https://www.linkedin.com/in/zacky-aduoli/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/r"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.youtube.com/channel/UCRIV6ndalc_mfIdAN_T2sgA"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:chiragmittal.mittal@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>|<a href="https://www.kaggle.com/techytushar/"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" width="40"></a>
-|--|--|--|--|--|--|--|
-
-### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
-
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
 -----
 Credits: [Zacky Aduoli](https://github.com/hane-smitter)
-
-Last Edited on: 30/11/2021
