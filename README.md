@@ -16,7 +16,7 @@
 #### Languages and Tools
 
 <p>
-    <abbr title="Javascript"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/javascript.svg" alt="JavaScript"></code></abbr>
+    <abbr title="Javascript"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/javascript.svg" alt="JavaScript"></abbr>
     <abbr title="PHP"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/php.png" alt="PHP"></code></abbr>
     <abbr title="HTML"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/html-5.svg" alt="HTML"></code></abbr>
     <abbr title="CSS"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/css-3.svg" alt="CSS"></code></abbr>
