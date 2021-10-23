@@ -4,7 +4,7 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/hane-smitter" target="_blank" rel="noopener noreferrer">Zacky Aduoli</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky Aduoli</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <a href="https://github.com/hane-smitter"><img align='right' src='https://github.com/hane-smitter/hane-smitter/blob/main/img/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
@@ -16,7 +16,7 @@
 #### Languages and Tools
 
 <p>
-    <abbr title="Javascript"><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/javascript.svg" alt="JavaScript"></abbr>
+    <abbr title="Javascript"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/javascript.svg" alt="JavaScript"></code></abbr>
     <abbr title="PHP"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/php.png" alt="PHP"></code></abbr>
     <abbr title="HTML"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/html-5.svg" alt="HTML"></code></abbr>
     <abbr title="CSS"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/css-3.svg" alt="CSS"></code></abbr>
@@ -24,13 +24,12 @@
     <abbr title="Node js"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/nodejs-1.svg" alt="Node js"></code></abbr>
     <abbr title="Laravel"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/laravel.svg" alt="Laravel"></code></abbr>
     <abbr title="SQL"><code><img height="26" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/sql.png" alt="SQL"></code></abbr>
-    <abbr title="Mongo DB"><code><img height="27" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/mongodb.png" alt="Mongo DB"></code></abbr>
+    <abbr title="Mongo DB"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/mongodb-2.svg" alt="Mongo DB"></code></abbr>
     <abbr title="Heroku"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/heroku-1.svg" alt="Heroku"></code></abbr>
     <abbr title="Git"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/git-icon.svg" alt="git"></code></abbr>
     <abbr title="terminal"><code><img height="22" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/terminal-1.svg" alt="terminal"></code></abbr>
     <abbr title="VS Code"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/visual-studio-code-1.svg" alt="Visual Code Studio"></code></abbr>
     <abbr title="Trello"><code><img height="25" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/main/img/trello-icon.svg" alt="Trello"></code></abbr>
-
 </p>
 
 <br />
