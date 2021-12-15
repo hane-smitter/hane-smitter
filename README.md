@@ -2,7 +2,8 @@
 **hane-smitter/hane-smitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+<!-- ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) -->
+![Website](https://s10.gifyu.com/images/Hnet-imageceb2ab8fb5cf9905.gif)
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky Aduoli</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
@@ -10,7 +11,7 @@
 
 - 🎓 I'm an Information Technology undergrad
 - 💻 My day to day work revolves around building software solutions to various interesting problems and deploying them to production, at scale.
-- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ 2022's Objective: Learn new technologies and create software solutions to existing problems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I like to do exercises, read blogs and participate in online contests
 
 #### Languages and Tools
