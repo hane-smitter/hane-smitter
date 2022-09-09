@@ -2,17 +2,17 @@
 **hane-smitter/hane-smitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<!-- ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) -->
-![Website](https://s10.gifyu.com/images/Hnet-imageceb2ab8fb5cf9905.gif)
+![Website](https://i.imgur.com/O6LdF7h.gif)
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky Aduoli</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/hane-smitter"><img align='right' src='https://github.com/hane-smitter/hane-smitter/blob/main/img/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+<a href="https://github.com/hane-smitter"><img align='right' src='https://github.com/hane-smitter/hane-smitter/blob/main/img/octocat.gif' width='150'></a></h2>
 
-- 🎓 I'm an Information Technology undergrad
+- I am a fullstack developer Writing Javascript and PHP.
 - 💻 My day to day work revolves around building software solutions to various interesting problems and deploying them to production, at scale.
-- ⭐ 2022's Objective: Learn new technologies and create software solutions to existing problems <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I like to do exercises, read blogs and participate in online contests
+- ⭐ 2022's Objective: Open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🎓 I'm an Information Technology Grad.
+- ⚡ I live through my interests in soccer, painting, keeping fit and travelling.
 
 #### Languages and Tools
 
