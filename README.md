@@ -6,7 +6,7 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky Aduoli</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
-<a href="https://github.com/hane-smitter"><img align='right' src='https://github.com/hane-smitter/hane-smitter/blob/main/img/octocat.gif' width='150'></a></h2>
+<a href="https://github.com/hane-smitter"><img align='right' src='https://i.imgur.com/gPfOmx5.gif' width='150'></a></h2>
 
 - I am a fullstack developer Writing Javascript and PHP.
 - 💻 My day to day work revolves around building software solutions to various interesting problems and deploying them to production, at scale.
