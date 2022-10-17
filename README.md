@@ -2,17 +2,25 @@
 **hane-smitter/hane-smitter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Website](https://i.imgur.com/O6LdF7h.gif)
+<!-- ![Website](https://i.imgur.com/O6LdF7h.gif) -->
+<img height="216" width="450" src="https://i.imgur.com/O6LdF7h.gif" alt="Website" align="center">
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky Aduoli</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
  
 <a href="https://github.com/hane-smitter"><img align='right' src='https://i.imgur.com/gPfOmx5.gif' width='150'></a></h2>
 
-- I am a fullstack developer Writing Javascript and PHP.
-- 💻 My day to day work revolves around building software solutions to various interesting problems and deploying them to production, at scale.
-- ⭐ 2022's Objective: Open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I am a fullstack developer.
+- I love working with Javascript and PHP💻.
+- ⭐ I love to Open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I answer some questions in [stackoverflow](https://stackoverflow.com/users/11966906/hane-smitter).
+- I write technical articles([dev.to](https://dev.to/smitterhane))
 - 🎓 I'm an Information Technology Grad.
 - ⚡ I live through my interests in soccer, painting, keeping fit and travelling.
+
+#### Open Source Projects
+
+- [react-loading-indicators](https://github.com/hane-smitter/react-loading-indicator) - Awesome loading indicators.
+- [mine-phone-number](https://github.com/hane-smitter/mine-phone-number) - Country specific phone number validation.
 
 #### Languages and Tools
 
@@ -35,9 +43,7 @@
 
 <br />
 
-[![Zacky Aduoli's github stats](https://github-readme-stats.vercel.app/api?username=hane-smitter&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/hane-smitter?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hane-smitter&layout=compact&langs_count=6&theme=blue-green)](https://github.com/hane-smitter)
-
-<!-- <a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hane-smitter&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hane-smitter&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a> -->
+[![Zacky Aduoli's github stats](https://github-readme-stats.vercel.app/api?username=hane-smitter&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/hane-smitter?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hane-smitter&layout=compact&langs_count=8&theme=blue-green)](https://github.com/hane-smitter)
 
 #### Find me on
 
