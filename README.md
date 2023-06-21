@@ -5,7 +5,7 @@
 <!-- ![Website](https://i.imgur.com/O6LdF7h.gif) -->
 <img height="192" width="400" src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/site.gif" alt="Gif of my personal website" align="center" />
 
-<h2 align="left">Hello human, Nice to meet you here<img src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/hi.gif" height="30" />.<br />I am <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky</a> .
+<h2 align="left">Hello human, Welcome<img src="https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/hi.gif" height="30" />.<br />I am <a href="https://www.linkedin.com/in/zacky-aduoli" target="_blank" rel="noopener noreferrer">Zacky</a> .
  
 <a href="https://github.com/hane-smitter"><img align='right' src='https://i.imgur.com/gPfOmx5.gif' width='150'></a></h2>
 
