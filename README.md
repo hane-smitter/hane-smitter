@@ -87,7 +87,7 @@
  </p>
 
 ![build](https://raw.githubusercontent.com/hane-smitter/hane-smitter/assets/assets/badge.svg)
-[README last updated](https://img.shields.io/github/last-commit/hane-smitter/hane-smitter/main?label=last%20updated&color=slateblue)
+![Last updated](https://img.shields.io/github/last-commit/hane-smitter/hane-smitter/main?label=last%20updated&color=slateblue)
 
 <!-- ![GitHub last commit](https://img.shields.io/static/v1?label=last%20updated&color=cyan) -->
 
