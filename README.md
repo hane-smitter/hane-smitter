@@ -16,10 +16,10 @@
 - I love working with Javascript and PHP💻.
 - ✍️ I write technical [articles](https://dev.to/smitterhane).
 - I answer some questions in [stackoverflow](https://stackoverflow.com/users/11966906/hane-smitter)📜.
-- 🎓 I am an Information Technology Grad.
+- 🎓 I am an IT Grad.
 - I live through my interests in soccer, painting, keeping fit🤸‍♂️🏋🏽‍♂️.
 
-#### Handpicked Open Source Projects
+#### Some Open Source Projects
 
 - [React-loading-indicators](https://github.com/hane-smitter/react-loading-indicator) - A component library of loading indicators.
 - [Login system](https://github.com/hane-smitter/MERN_login_system) - Authentication system built from frontend to backend.
@@ -28,7 +28,7 @@
 <details>
   <summary><strong>Open here to see more</strong></summary>
 
-<h4>Handpicked Articles</h4>
+<h4>Some Technical Articles</h4>
 
 <ul>
 <li><a href="https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1">Different techniques to fix your git mistakes.</a></li>
