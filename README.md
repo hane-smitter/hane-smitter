@@ -12,8 +12,8 @@
 </h2>
 
 - I am a Web Developer🕸️👨🏽‍🔧.
-- ⭐ I love to Open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />.
-- I love working with Javascript and PHP💻.
+- I build pure class solutions with Javascript and PHP💻.
+- ⭐ I make developer life better in Open source development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" />. <a href="https://ko-fi.com/smitter">I welcome your support 🙏</a>
 - ✍️ I write technical [articles](https://dev.to/smitterhane).
 - I answer some questions in [stackoverflow](https://stackoverflow.com/users/11966906/hane-smitter)📜.
 - 🎓 I am an IT Grad.
